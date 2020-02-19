@@ -1,8 +1,8 @@
-#########                        #########
-# Virtual Freer Remote Command Execution #
-#           Coded By N4ST4R_ID           #
-#       https://www.NyamuXpl0it.cf       #
-#########                        #########                    
+#########                     #########
+# Virtual Freer Remote Code Execution #
+#          Coded By N4ST4R_ID         #
+#      https://www.NyamuXpl0it.cf     #
+#########                     #########                    
 
 import os
 import sys
